@@ -133,7 +133,7 @@
     "cozy-client": "4.10.0",
     "cozy-client-js": "0.13.0",
     "cozy-konnector-libs": "4.11.4",
-    "cozy-realtime": "1.1.0",
+    "cozy-realtime": "1.2.0",
     "cozy-scripts": "1.1.1",
     "cozy-ui": "14.3.2",
     "create-react-context": "0.2.2",
