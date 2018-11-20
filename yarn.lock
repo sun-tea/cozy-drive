@@ -823,10 +823,10 @@
   dependencies:
     unicode-trie "^0.3.0"
 
-"@sentry/cli@1.35.4":
-  version "1.35.4"
-  resolved "https://registry.yarnpkg.com/@sentry/cli/-/cli-1.35.4.tgz#d89bc26a62baa33a8bf4991af04247bfd5093849"
-  integrity sha512-Rg9czbl/z9+ZPR1tOv/uFS0ShvnRxmEOgIHd4s8zZYzYWsihBe46drfWyOpvjgcSrMGxQPNdDZ3daEzb3u5vYA==
+"@sentry/cli@1.36.4":
+  version "1.36.4"
+  resolved "https://registry.yarnpkg.com/@sentry/cli/-/cli-1.36.4.tgz#0704b28d4bafdec3ba71ebc23b6bf90e43d908a5"
+  integrity sha512-flED76AXf72x7ebjx/KxqnAo7iFXWpEcC2SrPsatYGLgVcX6HDzBSDqy3GAisM1Ki2CEmpmvADHDTO71s598DQ==
   dependencies:
     https-proxy-agent "^2.2.1"
     node-fetch "^2.1.2"
